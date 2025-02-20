@@ -1,13 +1,13 @@
-### 🎉 Sistema de Inscrição para Evento  
+### 🎉 Event Signup System  
 
-Um site simples e intuitivo para inscrição em eventos, permitindo que os participantes se cadastrem e convidem outras pessoas para se juntarem. Este projeto foi realizado como parte do desafio do **NLW-19 da Rocketseat**.  
+A simple and intuitive event registration website that allows participants to sign up and invite others to join. This project was created as part of the **NLW-19 challenge by Rocketseat**.  
 
-### 📌 Funcionalidades  
-✅ **Cadastro rápido** – Inscreva-se facilmente no evento  
-✅ **Convite de participantes** – Compartilhe o evento com amigos  
-✅ **Design responsivo** – Adaptado para diferentes dispositivos  
+### 📌 Features  
+✅ **Quick Signup** – Easily register for the event  
+✅ **Invite Participants** – Share the event with friends  
+✅ **Responsive Design** – Adapted for different devices  
 
-### 🛠 Tecnologias Utilizadas  
-- **HTML** – Estrutura da página  
-- **CSS** – Estilização e responsividade  
-- **JavaScript** – Interatividade e funcionalidades  
+### 🛠 Technologies Used  
+- **HTML** – Page structure  
+- **CSS** – Styling and responsiveness  
+- **JavaScript** – Interactivity and functionality
